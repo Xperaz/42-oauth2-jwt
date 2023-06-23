@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-[Intra-42](https://profile.intra.42.fr/) OAuth2 Authentication with NestJS explained 
+[Intra-42](https://profile.intra.42.fr/) OAuth2  Jwt-based using nestjs and prisma
 
 ## Installation
 
